@@ -33,6 +33,8 @@ DOMAIN-SUFFIX,zybang.com
 DOMAIN-SUFFIX,cdnjtzy.com
 DOMAIN-SUFFIX,weixinbridge.com
 DOMAIN-SUFFIX,servicewechat.com
+DOMAIN-SUFFIX,bczcdn.com
+DOMAIN-SUFFIX,openinstall.io
 
 # BANK
 DOMAIN-KEYWORD,ccb
