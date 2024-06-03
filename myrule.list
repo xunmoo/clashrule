@@ -1,4 +1,4 @@
-#myrule
+# MyRule
 DOMAIN-KEYWORD,caiyunapp
 DOMAIN-KEYWORD,colorfulclouds
 DOMAIN-KEYWORD,pinduoduo
@@ -30,27 +30,22 @@ DOMAIN-KEYWORD,synology
 DOMAIN-KEYWORD,ksord
 DOMAIN-KEYWORD,qiandaocdn
 DOMAIN-SUFFIX,zybang.com
+DOMAIN-SUFFIX,cdnjtzy.com
 
-#建设银行
+# BANK
 DOMAIN-KEYWORD,ccb
-#兴业银行
 DOMAIN-KEYWORD,cib
-#工商银行
 DOMAIN-KEYWORD,icbc
-#中国银行
 DOMAIN-KEYWORD,boc
-#交通银行
 DOMAIN-KEYWORD,bankcomm
-#农业银行
 DOMAIN-KEYWORD,abchina
-#中信银行
 DOMAIN-KEYWORD,citic
-#福建农信
 DOMAIN-KEYWORD,fj96336
 DOMAIN-SUFFIX,fjnx.com.cn
 DOMAIN-SUFFIX,fz96336.com
 DOMAIN-KEYWORD,96336
 DOMAIN-KEYWORD,dwstock
+
 # NAME: DouYin&Jianying
 DOMAIN-SUFFIX,amemv.com
 DOMAIN-SUFFIX,douyincdn.com
@@ -90,3 +85,4 @@ DOMAIN-SUFFIX,qnqcdn.net
 DOMAIN-SUFFIX,faceu.mobi
 DOMAIN-SUFFIX,faceu.com
 DOMAIN-SUFFIX,vegslb.com
+DOMAIN-SUFFIX,xycloud.com
