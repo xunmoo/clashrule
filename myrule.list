@@ -35,9 +35,9 @@ DOMAIN-SUFFIX,weixinbridge.com
 DOMAIN-SUFFIX,servicewechat.com
 DOMAIN-SUFFIX,bczcdn.com
 DOMAIN-SUFFIX,openinstall.io
-DOMAIN-SUFFIX,welife001.com
-DOMAIN-SUFFIX,shujupie.com
-DOMAIN-SUFFIX,banjixiaoguanjia.com
+DOMAIN-KEYWORD,welife001
+DOMAIN-KEYWORD,shujupie
+DOMAIN-KEYWORD,banjixiaoguanjia
 
 # BANK
 DOMAIN-KEYWORD,ccb
