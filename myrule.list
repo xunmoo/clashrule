@@ -47,6 +47,9 @@ DOMAIN-SUFFIX,hdslb.com
 DOMAIN-KEYWORD,welife001
 DOMAIN-KEYWORD,banjixiaoguanjia
 DOMAIN-SUFFIX,wxlivecdn.com
+DOMAIN-SUFFIX,bjxgj.com
+DOMAIN-SUFFIX,pgyer.com
+DOMAIN-SUFFIX,frontjs.com
 
 # BANK
 DOMAIN-KEYWORD,ccb
