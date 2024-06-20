@@ -1,16 +1,6 @@
 # MyRule
-DOMAIN-SUFFIX,ntp.org
-DOMAIN-KEYWORD,caiyunapp
-DOMAIN-KEYWORD,colorfulclouds
-DOMAIN-KEYWORD,pinduoduo
-DOMAIN-KEYWORD,pddpic
-DOMAIN-KEYWORD,mxbc
 DOMAIN-SUFFIX,time.windows.com
-DOMAIN-SUFFIX,zuoyebang.com
 DOMAIN-SUFFIX,haokebang.net
-DOMAIN-SUFFIX,xunkids.com
-DOMAIN-SUFFIX,4009515151.com
-DOMAIN-SUFFIX,onewo.com
 DOMAIN-SUFFIX,taichuan.net
 DOMAIN-KEYWORD,zuoyebang
 DOMAIN-KEYWORD,duolingo
